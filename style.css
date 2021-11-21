@@ -1,0 +1,14 @@
+h1 {
+    background-color: darkseagreen;
+    color: hsl(hue, saturation, lightness);
+    align-self: centre;
+}
+
+nav {
+    background-color: darkblue;
+    size: 20px;
+}
+
+div h5.future {
+    background-color: red;
+}
